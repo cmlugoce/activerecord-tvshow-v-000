@@ -1,1 +1,1 @@
-class Show < 
+class Show < ActiveRecord::Base
